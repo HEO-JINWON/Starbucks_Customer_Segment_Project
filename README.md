@@ -28,6 +28,6 @@
 - portfolio.csv: 프로모션 제공에 대한 정보(channels -	고객에게 프로모션이 전달되는 마케팅 채널. 여러 채널이 동시에 주어질 수 있음. ['web', 'email', 'mobile', 'social'])
 - profile.csv: 고객들에 대한 인구통계학적 정보
 - transcript.csv: 각 고객들이 받은 프로모션에 대한 로그
-\
+---
 2. Starbucks Menu DATA
 - starbucks_menu_260112.csv: 한국 스타벅스 1호점의 현재 등록 메뉴 정보
