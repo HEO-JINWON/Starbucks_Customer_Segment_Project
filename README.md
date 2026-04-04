@@ -22,3 +22,12 @@
 ## 문제정의
 ### 1. 스타벅스 이용 고객은 세그먼트별로 어떤 소비 특징을 가지고 있을까?
 ### 2. 현재 스타벅스 메뉴의 영양 정보와 구성은 최근 소비 트렌드와 일치하고 있을까?
+
+## 활용 데이터
+1. Starbucks Customer DATA
+- portfolio.csv: 프로모션 제공에 대한 정보(channels -	고객에게 프로모션이 전달되는 마케팅 채널. 여러 채널이 동시에 주어질 수 있음. ['web', 'email', 'mobile', 'social'])
+- profile.csv: 고객들에 대한 인구통계학적 정보
+- transcript.csv: 각 고객들이 받은 프로모션에 대한 로그
+\
+2. Starbucks Menu DATA
+- starbucks_menu_260112.csv: 한국 스타벅스 1호점의 현재 등록 메뉴 정보
