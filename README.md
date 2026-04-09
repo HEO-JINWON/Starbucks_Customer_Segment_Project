@@ -174,4 +174,58 @@
 > - 이 연령대는 조건을 이해할 여유, 동시에 **혜택의 실질적 가치 판단 능력**이 높음
 > - 이 구간에서 프로모션은 **설득이 아니라 ‘결정 확인’ 역할**
 
+### 스타벅스 메뉴 분석 및 인사이트
+1. 연령대별 음료 카테고리 선호도 (외부 시장 및 배경 조사 결과)
 
+|연령대|커피|차(Tea)|탄산음료|과채음료|식물성 음료|주요 특징|
+|:----------|-----------:|-----------:|-----------:|-----------:|-----------:|:----------|
+|20대|12%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|19%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|제로 탄산 선호 강함([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|20%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|비두유(오트밀크) 선호([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|- 칼로리·영양성분 확인 습관 강함(37%, 33%)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 제로 음료 인지·구매율 최고(81%, 77%)([hrcopinion](https://hrcopinion.co.kr/archives/32170))<br> - 티 음료 판매 20% 증가(스타벅스)([tnnews](https://tnnews.co.kr/archives/262734))|
+|30대|중간 비중|19%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|제로 탄산 일상화([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|23%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|비두유 1위(30대 여성 22%)([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|- 음료 섭취량 최고(415.3g/일)([kormedi](https://kormedi.com/2724453/))<br> - 식물성 음료 주도층<br> - 가성비와 취향 병행([magazine.cheil](https://magazine.cheil.com/57623))|
+|40대|32%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|25%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|제로 선호 증가|26%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|두유 선호([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|- 40대 여성: 커피·차 핵심 소비층([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))<br> - 한방차 선호(16%)([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))<br> - 아메리카노·라떼 각 18%, 20%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|
+|50대|35%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|36%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|일반→제로 전환|31%([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|두유 주소비층([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))|- 50대 여성: 전 카테고리 최대 소비층([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))<br> - 한방차 선호 높음([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))<br> - 새로운 경험 중시(제로 등)([hrcopinion](https://hrcopinion.co.kr/archives/32170))|
+|60대|높은 비중|높은 비중|제로 인지 확산 중|높은 비중|두유 선호|- 제로 음료 인지 95%(이름 들어봄 62%)([hrcopinion](https://hrcopinion.co.kr/archives/32170))<br> - 구매 경험 37%([hrcopinion](https://hrcopinion.co.kr/archives/32170))<br> - 건강 관리 목적 우선|
+
+- 연령별 '건강 지향점'의 차이
+    - 2030 세대는 당류가 높고 화려한 '프라푸치노/블렌디드' 카테고리에서 높은 선호도를 보이는 반면, 5060 세대는 '티(Tea)'나 '콜드 브루' 카테고리에서 더 높은 수치를 나타내고 있음.
+    - 젊은 층은 '맛과 비주얼'을 중시하는 반면, 연령대가 높아질수록 카페인 부담이 적거나 깔끔한 맛을 선호하는 '건강 및 본연의 맛' 중심으로 선호도가 이동함을 알 수 있음.
+
+- '에스프레소/커피'의 전 세대 범용성
+    - 해당 카테고리는 특정 연령에 치우치지 않고 전 연령대에서 고르게 높은 수치를 유지하고 있음.
+    - 커피 기본 메뉴는 스타벅스의 가장 견고한 매출 기반(Cash Cow)이며, 연령에 상관없이 매장을 방문하게 만드는 핵심 유인책
+
+- 고연령층(5060)의 '전통 및 웰빙' 카테고리 집중
+    - 50대와 60대 지표를 보면 티 바나(Teavana)나 우유가 들어가지 않은 깔끔한 음료군에서 타 연령대 대비 독보적인 선호도가 나타남.
+    - 시니어 고객들에게 스타벅스는 단순한 커피 전문점을 넘어, 다양한 대체 음료를 즐길 수 있는 프리미엄 공간으로 인식되고 있음을 보여줌.
+
+> **"연령대별 메뉴 카테고리 선호도를 분석한 결과, 세대별 라이프스타일에 따른 뚜렷한 취향 차이를 확인함.<br> 2030 세대는 트렌디하고 화려한 블렌디드 메뉴를, 5060 세대는 건강을 고려한 티와 콜드브루 메뉴를 선호하는 경향이 나타났음. <br>
+> 이를 통해 전 연령을 대상으로 한 획일적 메뉴 추천이 아닌, 연령대별 선호 카테고리를 우선 노출하는 '개인화 큐레이션'의 필요성을 도출함."**
+
+---
+
+2. 연령대별 음료 구매 시 중요 요소
+- 로우스펙은 100mL당 당류 2.5g 미만을 저당 기준으로 삼고, 설탕 대신 알룰로스와 같은 대체 감미료를 사용하여 건강함을 강조하는 음료
+
+|연령대|1순위 요소|2순위 요소|3순위 요소|4순위 요소|특징|
+|:-----|----------:|----------:|----------:|----------:|:----------|
+|20대|맛 (72.5% 중시)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|가격 (76.0%)([magazine.cheil](https://magazine.cheil.com/57623))|영양성분/칼로리 (37% 확인)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|취향/개성 (74.3%)([magazine.cheil](https://magazine.cheil.com/57623))|- 칼로리·첨가물 확인 습관 가장 강함([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 가성비와 취향 병행<br> - 새로운 경험 추구(시즌 메뉴 80%)([shinsegaegroupnewsroom](https://www.shinsegaegroupnewsroom.com/starbucks-shucrim-beverage-200m-sold/))|
+|30대|맛|가격 경쟁력 (51.8% 가격 차이 적을 때)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|건강 기능 (체중 관리 70%)([hrcopinion](https://hrcopinion.co.kr/archives/32170))|편의성 (RTD, 배달)|- 가격 차이 적으면 로우스펙 선택([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 실용성 중시<br> - 식사 대용 수요 높음|
+|40대|건강 관리 (78.1%)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|맛|심리적 부담 감소 (52.5%)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|영양성분|- 건강 관리하며 먹는 재미 추구([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 한방차 등 기능성 선호([opensurvey](https://blog.opensurvey.co.kr/article/webinar-eat-2023-3/))<br> - 로우스펙에 위안 75.4% (여성)([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))|
+|50대|건강 기능 (질병 관리 70%)([hrcopinion](https://hrcopinion.co.kr/archives/32170))|새로운 경험 (50대 이상 특징)([hrcopinion](https://hrcopinion.co.kr/archives/32170))|맛|브랜드 신뢰|- 새로운 제품 경험 동기 강함([hrcopinion](https://hrcopinion.co.kr/archives/32170))<br> - 로우스펙 관심 67.5%([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 디카페인·두유 등 건강 음료|
+|60대|건강/질병 관리 (70%)([hrcopinion](https://hrcopinion.co.kr/archives/32170))|영양 보충|맛|브랜드|- 제로 음료 만족도 46%([hrcopinion](https://hrcopinion.co.kr/archives/32170))<br> - 로우스펙 관심 68.5%([madtimes](https://www.madtimes.co.kr/news/articleView.html?idxno=10653))<br> - 전통 음료 선호 유지|
+
+- 2030 세대의 '맛과 도파민' 중심 소비
+    - 20대와 30대 구간에서는 '당류'와 '칼로리' 항목의 수치가 높게 나타남.
+    - 젊은 층은 건강에 대한 우려보다는 **음료 본연의 달콤함과 화려한 맛을 즐기는 경향**이 강함. 이들에게는 '저칼로리' 마케팅보다는 '압도적인 비주얼'이나 '시즌 한정의 특별한 맛'을 강조하는 것이 훨씬 효과적일 수 있음.
+
+- 4050 세대의 '카페인 민감도'와 '건강 밸런스'
+    - 40대와 50대 구간을 기점으로 '카페인'과 '당류' 수치가 낮아지거나, 조절된 옵션을 선호하는 경향이 뚜렷해짐.
+    - 신체적인 변화와 **건강 관리를 시작하는 연령대**인 만큼, 카페인 함량을 줄인 디카페인 옵션이나 대체당 활용 메뉴에 대한 니즈가 본격적으로 발생하는 지점임.
+
+- 60대 이상의 'Low Sugar & Clean' 소비 패턴
+    - 60대 이상에서는 '당류' 수치가 가장 낮게 나타나며, 전반적으로 **자극적이지 않은 요소를 선호**하는 경향이 강함.
+    - 시니어 고객에게 스타벅스는 '달콤한 디저트 음료'를 마시는 곳이 아니라, '깔끔하고 건강한 차(Tea)나 커피'를 마시는 공간으로 정의됨. 이들에게는 영양 성분 표시에서 '저당(Low Sugar)'임을 명확히 강조하는 것이 구매 확신을 높이는 핵심 요소임.
+
+> **"연령대별 음료 선택의 결정적 요인을 분석한 결과, 세대별로 '맛의 즐거움'과 '건강상의 필요' 사이의 우선순위가 역전되는 지점을 확인함. <br> 2030은 고당도·고칼로리의 '미각적 충족'을 중시하는 반면, 40대 이후부터는 카페인과 당류를 관리하는 '기능적 선택'으로 소비 성향이 변화함. <br> 이를 바탕으로 연령대에 따라 '비주얼 중심 큐레이션'과 '성분 중심 큐레이션'을 분리하여 제공하는 개인화 마케팅을 제안함."**
+
+
+ 
